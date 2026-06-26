@@ -1,8 +1,30 @@
-- 👋 Hi, I’m @Adduuu30
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning computer science 
-- 💞️ I’m looking to collaborate on c language 
-- 📫 How to reach me c language
+# Hi, I'm Adil Shaikh 👋
+
+🎓 Final Year B.Sc. Computer Science Student
+
+💻 Interested in Software Development and Python Programming
+
+🌱 Currently learning Python, SQL, Git, and Data Structures
+
+🚀 Projects:
+- Rule-Based Chatbot using Python
+- More projects coming soon...
+
+🛠️ Skills:
+- Python
+- C
+- C++
+- SQL
+- HTML
+- CSS
+- DBMS
+
+📫 Reach me:
+- Email: shaikhadil5721@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adil-shaikh-b38449284
+
+⭐ Always learning and building new projects.
+
 
 
 <!---
